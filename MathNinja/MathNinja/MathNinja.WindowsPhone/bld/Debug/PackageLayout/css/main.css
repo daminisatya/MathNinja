@@ -1,0 +1,283 @@
+/************LAYOUTS************/
+
+* {
+/*	margin: 0;
+	padding: 0;*/
+	box-sizing: border-box;
+
+}
+
+
+body {
+background-color: #ffff76;	
+}
+
+
+.main-wrapper {
+	width: 100%;
+/*	margin: auto;/**/
+/*	margin-top: 3em;*/
+	margin-bottom: 5em;
+/*	padding-left: 50px;
+	padding-right: 50px;*/
+}
+
+header {
+	width: 100%;
+	background-color: black;
+	margin-bottom: 0;
+}
+
+.subheader {
+	padding: 1.5% 1% 1.5% 3%;
+	background-color: #dddd4c;
+	margin: 0;
+
+}
+.container {
+/*	min-width: 60%;*/
+	min-width: 100%;
+/*	margin: auto;*/
+	margin-top: 60px;
+	margin-bottom: 40px;
+	padding: 30px 40px 70px 100px;
+	min-height: 90%;
+/*	border: 4px solid #0b924d;*/
+	background-color: black;
+	display: inline-block;
+/*	background-color: #5f4ebd;*/
+/*	border-radius: 10px;*/
+}	
+
+table {
+
+	width: 60%;
+	margin: auto;
+	height: 80%;
+	background-color: #fffff6;
+}
+/*
+thead {
+	background-color: #afe8cb;
+}*/
+
+.question {
+	margin: 1em 1em 1em 1em;
+	display: block;
+	text-align: left;
+}
+
+
+.feedback {
+  padding: 15px 20px 15px 45px;
+  background-color: #d3d3c6;
+/*  border-top: 4px solid #ccc;
+  border-bottom: 4px solid #e9d8d3;*/
+  text-align: left; 
+
+}
+
+
+.option { 
+  padding: 20px 20px 20px 45px; 
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #e9d8d3;
+  text-align: left; 
+}
+
+.message {
+	display: inline-block;
+	padding: 0;
+}
+/*.footer {
+	
+	display: block;
+	background-color: #000;
+	min-width: 100%;
+	min-height: 20%;
+	border: 2px solid black;
+	color: white;
+	padding: 40px;
+
+}
+*/
+
+.right {
+	float: right;
+	color: #037039; 
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: .9em;
+/*	background-color: #65c7a7;*/
+	background-color: #b4efd1;
+	border: 2px solid #0b924d;
+	border-radius: 5px;
+	padding: 10px 30px;
+	margin-left: .5em;
+	margin-right: 2em;
+
+}
+
+
+.wrong {
+	float: right;
+	color: #d93400; 
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: .9em;
+/*	background-color: #65c7a7;*/
+	background-color: #ff8963;
+	border: 2px solid #d93400;
+	border-radius: 5px;
+	padding: 10px 30px;
+	margin-left: .5em;
+	margin-right: 2em;
+
+}
+
+
+.startover-button {
+	float: left;
+	color: #000; 
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 1.5em;
+	background-color: #fff;
+	border: 4px solid #ffff76;
+	border-radius: 5px;
+	padding: 10px 30px;
+/*	margin-left: 1em;*/
+/*	margin-right: 2em;*/
+
+}
+/*********FONTS************/
+
+h1 { 
+	font-family: 'Bitter', Arial, serif;
+	font-size: 2.5em;
+	color: #fff;
+	margin: 0;
+	padding: .5em .5em .25em 1em;
+
+}
+
+h3 {
+	font-family: 'Open Sans', Arial, serif;
+	font-size: 1.5em;
+	font-weight: normal;
+	color: #42423a;
+	padding: 0;
+	margin: 0;
+}
+
+.question {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5em;
+	font-weight: 600;
+	color: #000;
+}
+
+
+.feedback {
+	font-family: 'Open Sans', sans-serif;
+  	font-size: 1.2em;
+  	font-weight: 600;
+  	color: #000;
+}
+
+.option {
+	font-family: 'Open Sans', sans-serif;
+  	font-size: 1.2em;
+  	font-weight: 600;
+  	color: #000;
+}
+
+.win {
+	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5em;
+	font-weight: 600;
+	color: #fff;
+	display: block;
+	text-align: center;
+
+}
+
+/*.video {
+	margin: auto;
+	width: 100%;
+}*/
+
+.ytvideo {
+	margin: 0 18em;
+	max-width: 50%;
+}
+
+.message {
+	color: #fff;
+	font-size: 2em;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 1em;
+}
+
+
+
+
+/*ul li {
+	list-style: none;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2em;
+	color: #0d8f4d;
+	margin: 1.5em;
+	margin-bottom: 0;
+	margin-top: 0;
+	line-height: 1.5em;
+/*	line-height: 0;*/
+/*	border: 1px solid #0d8f4d;
+	background-color: gray;
+	padding: 3px;*/
+
+
+ 
+
+/*=====MEDIA QUERIES=========*/
+
+@media (max-width: 769px) {
+
+	table {
+		min-width: 100%;
+	}
+
+	body {
+		background-color: #000;
+	}
+
+	h1 {
+		font-size: 30px;
+	}
+
+	h3 {
+
+		font-size: 20px;
+	}
+
+	.question {
+		font-size: 20px;
+
+	}
+
+	td {
+
+		font-size: 20px;
+
+	}
+
+	.container {
+		margin: 0;
+		padding: 0;
+	}
+
+	.ytvideo {
+		margin: 0;
+	}
+}

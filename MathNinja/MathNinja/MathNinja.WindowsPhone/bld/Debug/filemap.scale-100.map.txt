@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Debug\filemap.scale-100.pri"			"resources.pri"
+"C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Debug\PackageLayout\images\SplashScreen.scale-100.png"			"images\SplashScreen.scale-100.png"

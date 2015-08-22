@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>GameZone</title>
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/default.css" rel="stylesheet" />
+    <script src="../js/jquery.js"></script>
+    <style>
+        #choices a {
+            margin: 2px;
+        }
+    </style>
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <a class="btn btn-success" href="game.html"><font face="myFirstFont" size="5">BACK</font></a>
+            <center><strong><font face="myFirstFont" size="20">Fastometer</font></strong></center>
+        </div>
+    </nav>
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            <h3 class="panel-title">How to Play?</h3>
+        </div>
+        <div class="panel-body">
+            Click on the correct answer choice before the timer stops.
+        </div>
+    </div>
+    <center>
+        <div>
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-6">
+                    <center><h1 id="problem"></h1></center>
+                    <br>
+                    <div id="choices">
+                    </div>
+                    <br>
+                    <h2>Score: <span id="score">0</span></h2>
+                </div>
+                <div class="col-md-2">
+                    <h3>Time Left: <span id="time"></span></h3>
+                </div>
+                <div id="alert"></div>
+            </div>
+        </div>
+    </center>
+    <script src="../js/game1.js"></script>
+    <script src="../js/jquery-1.11.0.min.js"></script>
+</body>
+</html>

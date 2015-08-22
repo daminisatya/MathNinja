@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="ae54cdf4-6cc0-4892-8f30-3258c33ce7ab" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>80, 100</Scale>
+			<TargetSize>48, 32, 256, 16</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="packages.config" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/packages.config">
+				<Candidate type="Path">
+					<Value>packages.config</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Content">
+				<NamedResource name="font-awesome.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/Content/font-awesome.css">
+					<Candidate type="Path">
+						<Value>Content\font-awesome.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font-awesome.min.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/Content/font-awesome.min.css">
+					<Candidate type="Path">
+						<Value>Content\font-awesome.min.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="bootstrap.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/bootstrap.css">
+					<Candidate type="Path">
+						<Value>css\bootstrap.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.min.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/bootstrap.min.css">
+					<Candidate type="Path">
+						<Value>css\bootstrap.min.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font-awesome.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/font-awesome.css">
+					<Candidate type="Path">
+						<Value>css\font-awesome.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font-awesome.min.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/font-awesome.min.css">
+					<Candidate type="Path">
+						<Value>css\font-awesome.min.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/jquery.css">
+					<Candidate type="Path">
+						<Value>css\jquery.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="quizDesign1.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/quizDesign1.css">
+					<Candidate type="Path">
+						<Value>css\quizDesign1.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="quizMain.css" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/css/quizMain.css">
+					<Candidate type="Path">
+						<Value>css\quizMain.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="font">
+				<NamedResource name="GoodDog.otf" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/font/GoodDog.otf">
+					<Candidate type="Path">
+						<Value>font\GoodDog.otf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="fonts">
+				<NamedResource name="fontawesome-webfont.eot" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/fonts/fontawesome-webfont.eot">
+					<Candidate type="Path">
+						<Value>fonts\fontawesome-webfont.eot</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fontawesome-webfont.svg" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/fonts/fontawesome-webfont.svg">
+					<Candidate type="Path">
+						<Value>fonts\fontawesome-webfont.svg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fontawesome-webfont.ttf" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/fonts/fontawesome-webfont.ttf">
+					<Candidate type="Path">
+						<Value>fonts\fontawesome-webfont.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fontawesome-webfont.woff" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/fonts/fontawesome-webfont.woff">
+					<Candidate type="Path">
+						<Value>fonts\fontawesome-webfont.woff</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontAwesome.otf" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/fonts/FontAwesome.otf">
+					<Candidate type="Path">
+						<Value>fonts\FontAwesome.otf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="html">
+				<NamedResource name="about.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/html/about.html">
+					<Candidate type="Path">
+						<Value>html\about.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/html/game.html">
+					<Candidate type="Path">
+						<Value>html\game.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gameZone.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/html/gameZone.html">
+					<Candidate type="Path">
+						<Value>html\gameZone.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gameZone2.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/html/gameZone2.html">
+					<Candidate type="Path">
+						<Value>html\gameZone2.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gameZone3.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/html/gameZone3.html">
+					<Candidate type="Path">
+						<Value>html\gameZone3.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="quiz.html" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/html/quiz.html">
+					<Candidate type="Path">
+						<Value>html\quiz.html</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/BadgeLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\BadgeLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>images\logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smalllogo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/smalllogo.png">
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>images\smalllogo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>images\smalllogo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>images\smalllogo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>images\smalllogo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>images\smalllogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\smalllogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreen.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/splashscreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\splashscreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>images\Square70x70Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="storelogo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/storelogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\storelogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="default.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game1.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/game1.js">
+					<Candidate type="Path">
+						<Value>js\game1.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game2.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/game2.js">
+					<Candidate type="Path">
+						<Value>js\game2.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game3.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/game3.js">
+					<Candidate type="Path">
+						<Value>js\game3.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery-1.11.0.min.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/jquery-1.11.0.min.js">
+					<Candidate type="Path">
+						<Value>js\jquery-1.11.0.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery-1.8.2.min.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/jquery-1.8.2.min.js">
+					<Candidate type="Path">
+						<Value>js\jquery-1.8.2.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery-ui.min.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/jquery-ui.min.js">
+					<Candidate type="Path">
+						<Value>js\jquery-ui.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/jquery.js">
+					<Candidate type="Path">
+						<Value>js\jquery.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery.min.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/jquery.min.js">
+					<Candidate type="Path">
+						<Value>js\jquery.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="v2.js" uri="ms-resource://ae54cdf4-6cc0-4892-8f30-3258c33ce7ab/Files/js/v2.js">
+					<Candidate type="Path">
+						<Value>js\v2.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

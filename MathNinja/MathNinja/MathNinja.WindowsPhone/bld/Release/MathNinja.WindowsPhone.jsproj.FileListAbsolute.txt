@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bin\Release\resources.pri
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bin\Release\MathNinja.WindowsPhone.build.appxrecipe
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\priconfig.xml
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\priconfig.xml.intermediate
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\layout.resfiles
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\layout.resfiles.intermediate
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\resources.resfiles
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\resources.resfiles.intermediate
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\pri.resfiles
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\pri.resfiles.intermediate
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\qualifiers.txt
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\qualifiers.txt.intermediate
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\ProjectArchitectures.txt

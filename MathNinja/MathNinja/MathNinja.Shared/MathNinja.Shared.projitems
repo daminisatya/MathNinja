@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>3dda92f1-ae75-4d91-8eac-e26f748cf2d5</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\jquery-1.8.2.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\jquery-ui.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\jquery.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\v2.js" />
+  </ItemGroup>
+</Project>

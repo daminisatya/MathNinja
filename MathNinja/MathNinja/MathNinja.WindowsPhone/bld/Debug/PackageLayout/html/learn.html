@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>LEARN</title>
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/default.css" rel="stylesheet" />
+    <style type="text/css">
+        video.ri:empty
+        {
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            -o-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+        video.ri
+{
+	position: absolute;
+	max-width: 80%;
+	top: 10%;
+	left: 10%;
+	border-radius: 3px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+}
+        @media screen and (orientation: portrait) {
+  video.ri { max-width: 90%; }
+}
+
+@media screen and (orientation: landscape) {
+  video.ri { max-height: 90%; }
+}
+
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <a class="btn btn-success" href="../default.html"><font face="myFirstFont" size="5">HOME</font></a>
+            <center><strong><font face="myFirstFont" size="20">LEARN</font></strong></center>
+        </div>
+    </nav>
+    <div class="btn-group btn-group-justified">
+        <a class="btn" href="#"><font face="myFirstFont" size="5">LEARN</font></a>
+        <a class="btn btn-default" href="quiz.html"><font face="myFirstFont" size="5">QUIZ</font></a>
+        <a class="btn btn-primary" href="score.html"><font face="myFirstFont" size="5">SCORE</font></a>
+        <a class="btn btn-info" href="write.html"><font face="myFirstFont" size="5">WRITE</font></a>
+        <a class="btn btn-warning" href="champ.html"><font face="myFirstFont" size="5">NINJA</font></a>
+    </div>
+    <div class="your-centered-div">
+        <video width="300" height="300" class="ri" controls>
+            <source src="../video/Video.mp4" type="video/mp4">
+        </video>
+
+    </div>
+</body>
+</html>

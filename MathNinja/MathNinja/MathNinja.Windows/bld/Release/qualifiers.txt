@@ -1,0 +1,8 @@
+Scale=80
+Scale=180
+Scale=140
+Scale=100
+TargetSize=48
+TargetSize=32
+TargetSize=256
+TargetSize=16

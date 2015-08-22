@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VK</Machine>
+    <WindowsUser>Damini</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ae54cdf4-6cc0-4892-8f30-3258c33ce7ab</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A9A71EC6847767AD55C5CF593CD55A5D5C6910F12F3A7725EA5DB63874F63CBD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ae54cdf4-6cc0-4892-8f30-3258c33ce7ab_1.0.0.2_neutral__yrvdh1zv4g43y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ae54cdf4-6cc0-4892-8f30-3258c33ce7ab_yrvdh1zv4g43y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ae54cdf4-6cc0-4892-8f30-3258c33ce7ab</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=HOME</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-22T08:01:05.728</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\Content\font-awesome.css">
+      <PackagePath>Content\font-awesome.css</PackagePath>
+      <Modified>2015-07-10T05:02:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\Content\font-awesome.min.css">
+      <PackagePath>Content\font-awesome.min.css</PackagePath>
+      <Modified>2015-07-10T02:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+      <Modified>2015-04-09T05:45:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+      <Modified>2015-04-09T05:44:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\font-awesome.css">
+      <PackagePath>css\font-awesome.css</PackagePath>
+      <Modified>2015-07-09T14:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\font-awesome.min.css">
+      <PackagePath>css\font-awesome.min.css</PackagePath>
+      <Modified>2015-07-09T14:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\jquery.css">
+      <PackagePath>css\jquery.css</PackagePath>
+      <Modified>2015-04-10T17:18:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\quizDesign1.css">
+      <PackagePath>css\quizDesign1.css</PackagePath>
+      <Modified>2015-04-15T15:15:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\quizMain.css">
+      <PackagePath>css\quizMain.css</PackagePath>
+      <Modified>2015-04-15T15:16:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-08-22T08:11:05.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\autocomplete\jquery.autocomplete.css">
+      <PackagePath>jquery\autocomplete\jquery.autocomplete.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\jquery.cluetip.css">
+      <PackagePath>jquery\cluetip\jquery.cluetip.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\datepicker\datePicker.css">
+      <PackagePath>jquery\datepicker\datePicker.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.css">
+      <PackagePath>jquery\themes\dark\dark.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.form.css">
+      <PackagePath>jquery\themes\dark\dark.form.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.menu.css">
+      <PackagePath>jquery\themes\dark\dark.menu.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.modal.css">
+      <PackagePath>jquery\themes\dark\dark.modal.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.tabs.css">
+      <PackagePath>jquery\themes\dark\dark.tabs.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.tree.css">
+      <PackagePath>jquery\themes\dark\dark.tree.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.accordion.css">
+      <PackagePath>jquery\themes\flora\flora.accordion.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.all.css">
+      <PackagePath>jquery\themes\flora\flora.all.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.calendar.css">
+      <PackagePath>jquery\themes\flora\flora.calendar.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.css">
+      <PackagePath>jquery\themes\flora\flora.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.dialog.css">
+      <PackagePath>jquery\themes\flora\flora.dialog.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.menu.css">
+      <PackagePath>jquery\themes\flora\flora.menu.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.resizable.css">
+      <PackagePath>jquery\themes\flora\flora.resizable.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.shadow.css">
+      <PackagePath>jquery\themes\flora\flora.shadow.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.slider.css">
+      <PackagePath>jquery\themes\flora\flora.slider.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.tablesorter.css">
+      <PackagePath>jquery\themes\flora\flora.tablesorter.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\flora.tabs.css">
+      <PackagePath>jquery\themes\flora\flora.tabs.css</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\light\light.css">
+      <PackagePath>jquery\themes\light\light.css</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\light\light.form.css">
+      <PackagePath>jquery\themes\light\light.form.css</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\light\light.menu.css">
+      <PackagePath>jquery\themes\light\light.menu.css</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\light\light.modal.css">
+      <PackagePath>jquery\themes\light\light.modal.css</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\light\light.tabs.css">
+      <PackagePath>jquery\themes\light\light.tabs.css</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\light\light.tree.css">
+      <PackagePath>jquery\themes\light\light.tree.css</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.accordion.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.accordion.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.all.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.all.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.autocomplete.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.autocomplete.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.base.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.base.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.button.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.button.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.core.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.core.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.datepicker.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.datepicker.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.dialog.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.dialog.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.progressbar.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.progressbar.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.resizable.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.resizable.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.selectable.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.selectable.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.slider.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.slider.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.tabs.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.tabs.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\jquery.ui.theme.css">
+      <PackagePath>jquery\ui\themes\base\jquery.ui.theme.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.accordion.css">
+      <PackagePath>jquery\ui\themes\dark\ui.accordion.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.all.css">
+      <PackagePath>jquery\ui\themes\dark\ui.all.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.allplugins.css">
+      <PackagePath>jquery\ui\themes\dark\ui.allplugins.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.core.css">
+      <PackagePath>jquery\ui\themes\dark\ui.core.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.datepicker.css">
+      <PackagePath>jquery\ui\themes\dark\ui.datepicker.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.dialog.css">
+      <PackagePath>jquery\ui\themes\dark\ui.dialog.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.progressbar.css">
+      <PackagePath>jquery\ui\themes\dark\ui.progressbar.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.resizable.css">
+      <PackagePath>jquery\ui\themes\dark\ui.resizable.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.slider.css">
+      <PackagePath>jquery\ui\themes\dark\ui.slider.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.tabs.css">
+      <PackagePath>jquery\ui\themes\dark\ui.tabs.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\ui.theme.css">
+      <PackagePath>jquery\ui\themes\dark\ui.theme.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery-ui-1.8.12.custom.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery-ui-1.8.12.custom.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.accordion.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.accordion.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.all.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.all.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.autocomplete.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.autocomplete.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.base.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.base.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.button.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.button.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.core.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.core.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.datepicker.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.datepicker.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.dialog.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.dialog.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.progressbar.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.progressbar.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.resizable.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.resizable.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.selectable.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.selectable.css</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.slider.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.slider.css</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.tabs.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.tabs.css</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\jquery.ui.theme.css">
+      <PackagePath>jquery\ui\themes\smoothness\jquery.ui.theme.css</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-08-22T08:03:43.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\about.html">
+      <PackagePath>html\about.html</PackagePath>
+      <Modified>2015-08-22T08:03:55.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\game.html">
+      <PackagePath>html\game.html</PackagePath>
+      <Modified>2015-08-22T08:09:32.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\gameZone.html">
+      <PackagePath>html\gameZone.html</PackagePath>
+      <Modified>2015-07-10T02:47:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\gameZone2.html">
+      <PackagePath>html\gameZone2.html</PackagePath>
+      <Modified>2015-07-10T02:47:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\gameZone3.html">
+      <PackagePath>html\gameZone3.html</PackagePath>
+      <Modified>2015-07-10T02:47:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\learn.html">
+      <PackagePath>html\learn.html</PackagePath>
+      <Modified>2015-04-16T17:23:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\html\quiz.html">
+      <PackagePath>html\quiz.html</PackagePath>
+      <Modified>2015-08-22T08:08:52.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\write.html">
+      <PackagePath>write.html</PackagePath>
+      <Modified>2015-04-16T17:24:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\fonts\fontawesome-webfont.eot">
+      <PackagePath>fonts\fontawesome-webfont.eot</PackagePath>
+      <Modified>2015-07-10T02:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\fonts\fontawesome-webfont.svg">
+      <PackagePath>fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2015-07-10T02:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\fonts\fontawesome-webfont.ttf">
+      <PackagePath>fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2015-07-10T02:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\fonts\fontawesome-webfont.woff">
+      <PackagePath>fonts\fontawesome-webfont.woff</PackagePath>
+      <Modified>2015-07-10T02:05:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\fonts\FontAwesome.otf">
+      <PackagePath>fonts\FontAwesome.otf</PackagePath>
+      <Modified>2015-07-10T02:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\font\GoodDog.otf">
+      <PackagePath>font\GoodDog.otf</PackagePath>
+      <Modified>2015-04-09T06:10:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\1.png">
+      <PackagePath>images\1.png</PackagePath>
+      <Modified>2015-04-12T15:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\2.png">
+      <PackagePath>images\2.png</PackagePath>
+      <Modified>2015-04-12T15:54:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\4.png">
+      <PackagePath>images\4.png</PackagePath>
+      <Modified>2015-04-12T15:55:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\5.png">
+      <PackagePath>images\5.png</PackagePath>
+      <Modified>2015-04-12T15:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\background.png">
+      <PackagePath>images\background.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\numberbuttons-v1.png">
+      <PackagePath>images\numberbuttons-v1.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\numberbuttons.png">
+      <PackagePath>images\numberbuttons.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\rectanglebuttons1-old.png">
+      <PackagePath>images\rectanglebuttons1-old.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\rectanglebuttons1.png">
+      <PackagePath>images\rectanglebuttons1.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\rectanglebuttons2-old.png">
+      <PackagePath>images\rectanglebuttons2-old.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\rectanglebuttons2-old2.png">
+      <PackagePath>images\rectanglebuttons2-old2.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\rectanglebuttons2.png">
+      <PackagePath>images\rectanglebuttons2.png</PackagePath>
+      <Modified>2015-04-15T18:04:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-17T04:34:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T12:08:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\tnumbers.png">
+      <PackagePath>images\tnumbers.png</PackagePath>
+      <Modified>2015-04-12T05:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\bl.png">
+      <PackagePath>jquery\cluetip\images\bl.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\br.png">
+      <PackagePath>jquery\cluetip\images\br.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\tl.png">
+      <PackagePath>jquery\cluetip\images\tl.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\tr.png">
+      <PackagePath>jquery\cluetip\images\tr.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\datepicker\calendar.png">
+      <PackagePath>jquery\datepicker\calendar.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\dark\dark.form.png">
+      <PackagePath>jquery\themes\dark\dark.form.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-left-act.png">
+      <PackagePath>jquery\themes\flora\i\accordion-left-act.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-left-over.png">
+      <PackagePath>jquery\themes\flora\i\accordion-left-over.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-left.png">
+      <PackagePath>jquery\themes\flora\i\accordion-left.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-middle-act.png">
+      <PackagePath>jquery\themes\flora\i\accordion-middle-act.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-middle-over.png">
+      <PackagePath>jquery\themes\flora\i\accordion-middle-over.png</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-middle.png">
+      <PackagePath>jquery\themes\flora\i\accordion-middle.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-right-act.png">
+      <PackagePath>jquery\themes\flora\i\accordion-right-act.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-right-over.png">
+      <PackagePath>jquery\themes\flora\i\accordion-right-over.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\accordion-right.png">
+      <PackagePath>jquery\themes\flora\i\accordion-right.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-titlebar-close-hover.png">
+      <PackagePath>jquery\themes\flora\i\dialog-titlebar-close-hover.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-titlebar-close.png">
+      <PackagePath>jquery\themes\flora\i\dialog-titlebar-close.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\shadow.png">
+      <PackagePath>jquery\themes\flora\i\shadow.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\slider-bg-1.png">
+      <PackagePath>jquery\themes\flora\i\slider-bg-1.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\slider-bg-2.png">
+      <PackagePath>jquery\themes\flora\i\slider-bg-2.png</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_flat_75_ffffff_40x100.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_flat_75_ffffff_40x100.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_glass_65_ffffff_1x400.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_glass_65_ffffff_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_glass_75_dadada_1x400.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_glass_75_dadada_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-icons_222222_256x240.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-icons_222222_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-icons_2e83ff_256x240.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-icons_2e83ff_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-icons_454545_256x240.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-icons_454545_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-icons_888888_256x240.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-icons_888888_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\base\images\ui-icons_cd0a0a_256x240.png">
+      <PackagePath>jquery\ui\themes\base\images\ui-icons_cd0a0a_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\000000_40x100_textures_05_inset_soft_25.png">
+      <PackagePath>jquery\ui\themes\dark\images\000000_40x100_textures_05_inset_soft_25.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\0078a3_40x100_textures_02_glass_40.png">
+      <PackagePath>jquery\ui\themes\dark\images\0078a3_40x100_textures_02_glass_40.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\222222_256x240_icons_icons.png">
+      <PackagePath>jquery\ui\themes\dark\images\222222_256x240_icons_icons.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\2952bc_40x100_textures_05_inset_soft_30.png">
+      <PackagePath>jquery\ui\themes\dark\images\2952bc_40x100_textures_05_inset_soft_30.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\333333_500x100_textures_12_gloss_wave_25.png">
+      <PackagePath>jquery\ui\themes\dark\images\333333_500x100_textures_12_gloss_wave_25.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\4b8e0b_256x240_icons_icons.png">
+      <PackagePath>jquery\ui\themes\dark\images\4b8e0b_256x240_icons_icons.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\555555_40x100_textures_02_glass_20.png">
+      <PackagePath>jquery\ui\themes\dark\images\555555_40x100_textures_02_glass_20.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\5c5c5c_40x100_textures_01_flat_50.png">
+      <PackagePath>jquery\ui\themes\dark\images\5c5c5c_40x100_textures_01_flat_50.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\a83300_256x240_icons_icons.png">
+      <PackagePath>jquery\ui\themes\dark\images\a83300_256x240_icons_icons.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\cccccc_256x240_icons_icons.png">
+      <PackagePath>jquery\ui\themes\dark\images\cccccc_256x240_icons_icons.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\cccccc_40x100_textures_01_flat_30.png">
+      <PackagePath>jquery\ui\themes\dark\images\cccccc_40x100_textures_01_flat_30.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\eeeeee_40x100_textures_03_highlight_soft_80.png">
+      <PackagePath>jquery\ui\themes\dark\images\eeeeee_40x100_textures_03_highlight_soft_80.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\ffc73d_40x100_textures_02_glass_40.png">
+      <PackagePath>jquery\ui\themes\dark\images\ffc73d_40x100_textures_02_glass_40.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\ffffff_256x240_icons_icons.png">
+      <PackagePath>jquery\ui\themes\dark\images\ffffff_256x240_icons_icons.png</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_glass_65_ffffff_1x400.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_glass_65_ffffff_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_glass_75_dadada_1x400.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_glass_75_dadada_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-icons_222222_256x240.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-icons_222222_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-icons_2e83ff_256x240.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-icons_2e83ff_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-icons_454545_256x240.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-icons_454545_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-icons_888888_256x240.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-icons_888888_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\smoothness\images\ui-icons_cd0a0a_256x240.png">
+      <PackagePath>jquery\ui\themes\smoothness\images\ui-icons_cd0a0a_256x240.png</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\3.jpg">
+      <PackagePath>images\3.jpg</PackagePath>
+      <Modified>2015-04-12T15:55:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\add.jpg">
+      <PackagePath>images\add.jpg</PackagePath>
+      <Modified>2015-04-17T05:30:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\numbers listt-001.jpg">
+      <PackagePath>images\numbers listt-001.jpg</PackagePath>
+      <Modified>2015-04-17T05:52:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\numbers listt-002.jpg">
+      <PackagePath>images\numbers listt-002.jpg</PackagePath>
+      <Modified>2015-04-17T05:52:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\images\numbers listt-003.jpg">
+      <PackagePath>images\numbers listt-003.jpg</PackagePath>
+      <Modified>2015-04-17T05:53:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\autocomplete\jquery.autocomplete.js">
+      <PackagePath>jquery\autocomplete\jquery.autocomplete.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\jquery.cluetip.js">
+      <PackagePath>jquery\cluetip\jquery.cluetip.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\jquery.dimensions-1.2.js">
+      <PackagePath>jquery\cluetip\jquery.dimensions-1.2.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\confirm\jquery.confirm-1.2.js">
+      <PackagePath>jquery\confirm\jquery.confirm-1.2.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\datepicker\date.js">
+      <PackagePath>jquery\datepicker\date.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\datepicker\jquery.datePicker.js">
+      <PackagePath>jquery\datepicker\jquery.datePicker.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.blind.js">
+      <PackagePath>jquery\effects.blind.js</PackagePath>
+      <Modified>2015-08-22T07:52:00.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.bounce.js">
+      <PackagePath>jquery\effects.bounce.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.clip.js">
+      <PackagePath>jquery\effects.clip.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.core.js">
+      <PackagePath>jquery\effects.core.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.drop.js">
+      <PackagePath>jquery\effects.drop.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.explode.js">
+      <PackagePath>jquery\effects.explode.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.fold.js">
+      <PackagePath>jquery\effects.fold.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.highlight.js">
+      <PackagePath>jquery\effects.highlight.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.pulsate.js">
+      <PackagePath>jquery\effects.pulsate.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.scale.js">
+      <PackagePath>jquery\effects.scale.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.shake.js">
+      <PackagePath>jquery\effects.shake.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.slide.js">
+      <PackagePath>jquery\effects.slide.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\effects.transfer.js">
+      <PackagePath>jquery\effects.transfer.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery-ui.js">
+      <PackagePath>jquery\jquery-ui.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery-ui.min.js">
+      <PackagePath>jquery\jquery-ui.min.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery.dimensions.js">
+      <PackagePath>jquery\jquery.dimensions.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery.js">
+      <PackagePath>jquery\jquery.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery.min.js">
+      <PackagePath>jquery\jquery.min.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery.pack.js">
+      <PackagePath>jquery\jquery.pack.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery.ui.all.js">
+      <PackagePath>jquery\jquery.ui.all.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\selectboxes\jquery.selectboxes.js">
+      <PackagePath>jquery\selectboxes\jquery.selectboxes.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.accordion.js">
+      <PackagePath>jquery\ui.accordion.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.calendar.js">
+      <PackagePath>jquery\ui.calendar.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.core.js">
+      <PackagePath>jquery\ui.core.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.datepicker.js">
+      <PackagePath>jquery\ui.datepicker.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.dialog.js">
+      <PackagePath>jquery\ui.dialog.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.draggable.ext.js">
+      <PackagePath>jquery\ui.draggable.ext.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.draggable.js">
+      <PackagePath>jquery\ui.draggable.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.droppable.ext.js">
+      <PackagePath>jquery\ui.droppable.ext.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.droppable.js">
+      <PackagePath>jquery\ui.droppable.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.mouse.js">
+      <PackagePath>jquery\ui.mouse.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.resizable.js">
+      <PackagePath>jquery\ui.resizable.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.selectable.js">
+      <PackagePath>jquery\ui.selectable.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.slider.js">
+      <PackagePath>jquery\ui.slider.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.sortable.js">
+      <PackagePath>jquery\ui.sortable.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.tablesorter.js">
+      <PackagePath>jquery\ui.tablesorter.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui.tabs.js">
+      <PackagePath>jquery\ui.tabs.js</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\jquery.ui.i18n.all.js">
+      <PackagePath>jquery\ui\i18n\jquery.ui.i18n.all.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-ar.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-ar.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-bg.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-bg.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-ca.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-ca.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-cs.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-cs.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-da.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-da.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-de.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-de.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-eo.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-eo.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-es.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-es.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-fa.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-fa.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-fi.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-fi.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-fr.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-fr.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-he.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-he.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-hr.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-hr.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-hu.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-hu.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-hy.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-hy.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-id.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-id.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-is.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-is.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-it.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-it.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-ja.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-ja.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-ko.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-ko.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-lt.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-lt.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-lv.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-lv.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-nl.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-nl.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-no.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-no.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-pl.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-pl.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-pt-BR.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-pt-BR.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-ro.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-ro.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-ru.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-ru.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-sk.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-sk.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-sl.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-sl.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-sq.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-sq.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-sv.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-sv.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-th.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-th.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-tr.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-tr.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-uk.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-uk.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-zh-CN.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-zh-CN.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\ui.datepicker-zh-TW.js">
+      <PackagePath>jquery\ui\i18n\ui.datepicker-zh-TW.js</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\blocks-edit1.js">
+      <PackagePath>js\blocks-edit1.js</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\blocks-ray-tracer.js">
+      <PackagePath>js\blocks-ray-tracer.js</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\blocks-with-canvas.js">
+      <PackagePath>js\blocks-with-canvas.js</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\blocks.js">
+      <PackagePath>js\blocks.js</PackagePath>
+      <Modified>2015-04-16T16:38:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\game1.js">
+      <PackagePath>js\game1.js</PackagePath>
+      <Modified>2015-07-10T10:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\game2.js">
+      <PackagePath>js\game2.js</PackagePath>
+      <Modified>2015-07-20T14:29:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\game3.js">
+      <PackagePath>js\game3.js</PackagePath>
+      <Modified>2015-04-16T19:54:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\jquery-1.11.0.min.js">
+      <PackagePath>js\jquery-1.11.0.min.js</PackagePath>
+      <Modified>2015-04-16T18:45:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\jquery.js">
+      <PackagePath>js\jquery.js</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\puzzles.js">
+      <PackagePath>js\puzzles.js</PackagePath>
+      <Modified>2015-04-16T14:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\js\writeCanvas.js">
+      <PackagePath>js\writeCanvas.js</PackagePath>
+      <Modified>2015-04-17T07:13:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-04-17T04:49:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\flip.js">
+      <PackagePath>js\flip.js</PackagePath>
+      <Modified>2015-04-13T15:06:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\jquery-1.8.2.min.js">
+      <PackagePath>js\jquery-1.8.2.min.js</PackagePath>
+      <Modified>2015-04-12T15:14:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\jquery-ui.min.js">
+      <PackagePath>js\jquery-ui.min.js</PackagePath>
+      <Modified>2015-04-10T17:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+      <Modified>2015-04-10T17:15:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\jquery.wmuSlider.js">
+      <PackagePath>js\jquery.wmuSlider.js</PackagePath>
+      <Modified>2015-04-17T05:15:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\mainflip.js">
+      <PackagePath>js\mainflip.js</PackagePath>
+      <Modified>2015-04-13T16:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Shared\js\v2.js">
+      <PackagePath>js\v2.js</PackagePath>
+      <Modified>2015-07-10T03:11:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\arrowdown.gif">
+      <PackagePath>jquery\cluetip\images\arrowdown.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\arrowleft.gif">
+      <PackagePath>jquery\cluetip\images\arrowleft.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\arrowright.gif">
+      <PackagePath>jquery\cluetip\images\arrowright.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\arrowup.gif">
+      <PackagePath>jquery\cluetip\images\arrowup.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\bl.gif">
+      <PackagePath>jquery\cluetip\images\bl.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\br.gif">
+      <PackagePath>jquery\cluetip\images\br.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\darrowdown.gif">
+      <PackagePath>jquery\cluetip\images\darrowdown.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\darrowleft.gif">
+      <PackagePath>jquery\cluetip\images\darrowleft.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\darrowright.gif">
+      <PackagePath>jquery\cluetip\images\darrowright.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\darrowup.gif">
+      <PackagePath>jquery\cluetip\images\darrowup.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\rarrowdown.gif">
+      <PackagePath>jquery\cluetip\images\rarrowdown.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\rarrowleft.gif">
+      <PackagePath>jquery\cluetip\images\rarrowleft.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\rarrowright.gif">
+      <PackagePath>jquery\cluetip\images\rarrowright.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\rarrowup.gif">
+      <PackagePath>jquery\cluetip\images\rarrowup.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\tl.gif">
+      <PackagePath>jquery\cluetip\images\tl.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\tr.gif">
+      <PackagePath>jquery\cluetip\images\tr.gif</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\asc.gif">
+      <PackagePath>jquery\themes\flora\i\asc.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\bg.gif">
+      <PackagePath>jquery\themes\flora\i\bg.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\desc.gif">
+      <PackagePath>jquery\themes\flora\i\desc.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-e.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-e.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-n.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-n.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-ne.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-ne.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-nw.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-nw.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-s.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-s.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-se.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-se.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-sw.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-sw.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-title.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-title.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\dialog-w.gif">
+      <PackagePath>jquery\themes\flora\i\dialog-w.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\menu-submenu.gif">
+      <PackagePath>jquery\themes\flora\i\menu-submenu.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-e.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-e.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-n.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-n.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-ne.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-ne.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-nw.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-nw.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-s.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-s.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-se.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-se.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-sw.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-sw.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\resizable-w.gif">
+      <PackagePath>jquery\themes\flora\i\resizable-w.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\slider-handle.gif">
+      <PackagePath>jquery\themes\flora\i\slider-handle.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\themes\flora\i\tabs.gif">
+      <PackagePath>jquery\themes\flora\i\tabs.gif</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\cluetip\images\Thumbs.db">
+      <PackagePath>jquery\cluetip\images\Thumbs.db</PackagePath>
+      <Modified>2015-04-16T14:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\themes\dark\images\Thumbs.db">
+      <PackagePath>jquery\ui\themes\dark\images\Thumbs.db</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\jquery.sdoc">
+      <PackagePath>jquery\jquery.sdoc</PackagePath>
+      <Modified>2015-04-16T14:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\all-wcprops">
+      <PackagePath>jquery\ui\i18n\.svn\all-wcprops</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\entries">
+      <PackagePath>jquery\ui\i18n\.svn\entries</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\format">
+      <PackagePath>jquery\ui\i18n\.svn\format</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-ar.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-ar.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-bg.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-bg.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-ca.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-ca.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-cs.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-cs.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-da.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-da.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-de.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-de.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-eo.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-eo.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-es.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-es.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-fa.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-fa.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-fi.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-fi.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-fr.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-fr.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-he.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-he.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-hr.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-hr.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-hu.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-hu.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-hy.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-hy.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-id.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-id.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-is.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-is.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-it.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-it.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-ja.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-ja.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-ko.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-ko.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-lt.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-lt.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-lv.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-lv.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-nl.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-nl.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-no.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-no.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-pl.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-pl.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-pt-BR.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-pt-BR.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-ro.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-ro.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-ru.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-ru.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-sk.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-sk.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-sl.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-sl.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-sq.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-sq.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-sv.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-sv.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-th.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-th.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-tr.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-tr.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-uk.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-uk.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-zh-CN.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-zh-CN.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\prop-base\ui.datepicker-zh-TW.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\prop-base\ui.datepicker-zh-TW.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\jquery.ui.i18n.all.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\jquery.ui.i18n.all.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-ar.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-ar.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-bg.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-bg.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-ca.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-ca.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-cs.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-cs.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-da.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-da.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-de.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-de.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-eo.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-eo.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-es.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-es.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-fa.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-fa.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-fi.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-fi.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-fr.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-fr.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-he.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-he.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-hr.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-hr.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-hu.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-hu.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-hy.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-hy.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-id.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-id.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-is.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-is.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-it.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-it.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-ja.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-ja.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-ko.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-ko.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-lt.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-lt.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-lv.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-lv.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-nl.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-nl.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-no.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-no.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-pl.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-pl.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-pt-BR.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-pt-BR.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-ro.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-ro.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-ru.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-ru.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-sk.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-sk.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-sl.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-sl.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-sq.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-sq.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-sv.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-sv.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-th.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-th.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-tr.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-tr.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-uk.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-uk.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-zh-CN.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-zh-CN.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\jquery\ui\i18n\.svn\text-base\ui.datepicker-zh-TW.js.svn-base">
+      <PackagePath>jquery\ui\i18n\.svn\text-base\ui.datepicker-zh-TW.js.svn-base</PackagePath>
+      <Modified>2015-04-16T14:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2015-07-10T02:06:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\video\Video.mp4">
+      <PackagePath>video\Video.mp4</PackagePath>
+      <Modified>2015-04-15T16:26:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-22T08:01:05.228</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

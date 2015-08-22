@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADMIN</Machine>
+    <WindowsUser>HOME</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fc1d1329-3395-4702-b70c-55edc7c863c4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\Content\font-awesome.css">
+      <PackagePath>Content\font-awesome.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\Content\font-awesome.min.css">
+      <PackagePath>Content\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\font-awesome.css">
+      <PackagePath>css\font-awesome.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\font-awesome.min.css">
+      <PackagePath>css\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\font.css">
+      <PackagePath>css\font.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\jquery.css">
+      <PackagePath>css\jquery.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\normalize.css">
+      <PackagePath>css\normalize.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\about.html">
+      <PackagePath>html\about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\champ.html">
+      <PackagePath>html\champ.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\gameZone.html">
+      <PackagePath>html\gameZone.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\gameZone2.html">
+      <PackagePath>html\gameZone2.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\gameZone3.html">
+      <PackagePath>html\gameZone3.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\learn.html">
+      <PackagePath>html\learn.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\quiz.html">
+      <PackagePath>html\quiz.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\score.html">
+      <PackagePath>html\score.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\html\write.html">
+      <PackagePath>html\write.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\fonts\fontawesome-webfont.eot">
+      <PackagePath>fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\fonts\fontawesome-webfont.svg">
+      <PackagePath>fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\fonts\fontawesome-webfont.ttf">
+      <PackagePath>fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\fonts\fontawesome-webfont.woff">
+      <PackagePath>fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\fonts\FontAwesome.otf">
+      <PackagePath>fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\font\GoodDog.otf">
+      <PackagePath>font\GoodDog.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\2.png">
+      <PackagePath>images\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\background.png">
+      <PackagePath>images\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numberbuttons-v1.png">
+      <PackagePath>images\numberbuttons-v1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numberbuttons.png">
+      <PackagePath>images\numberbuttons.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\rectanglebuttons1-old.png">
+      <PackagePath>images\rectanglebuttons1-old.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\rectanglebuttons1.png">
+      <PackagePath>images\rectanglebuttons1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\rectanglebuttons2-old.png">
+      <PackagePath>images\rectanglebuttons2-old.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\rectanglebuttons2-old2.png">
+      <PackagePath>images\rectanglebuttons2-old2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\rectanglebuttons2.png">
+      <PackagePath>images\rectanglebuttons2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\SplashScreen.scale-140.png">
+      <PackagePath>images\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\add.jpg">
+      <PackagePath>images\add.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numbers listt-004.jpg">
+      <PackagePath>images\numbers listt-004.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numbers listt-005.jpg">
+      <PackagePath>images\numbers listt-005.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numbers listt-006.jpg">
+      <PackagePath>images\numbers listt-006.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numbers listt-007.jpg">
+      <PackagePath>images\numbers listt-007.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\images\numbers listt-008.jpg">
+      <PackagePath>images\numbers listt-008.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\javascript\game1.js">
+      <PackagePath>javascript\game1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\javascript\game2.js">
+      <PackagePath>javascript\game2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\javascript\game3.js">
+      <PackagePath>javascript\game3.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\javascript\jquery-1.11.0.min.js">
+      <PackagePath>javascript\jquery-1.11.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\javascript\jquery.js">
+      <PackagePath>javascript\jquery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\flip.js">
+      <PackagePath>js\flip.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\jquery-1.8.2.min.js">
+      <PackagePath>js\jquery-1.8.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\jquery-ui.min.js">
+      <PackagePath>js\jquery-ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\jquery.wmuSlider.js">
+      <PackagePath>js\jquery.wmuSlider.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\mainflip.js">
+      <PackagePath>js\mainflip.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.Shared\js\v2.js">
+      <PackagePath>js\v2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\video\Video.mp4">
+      <PackagePath>video\Video.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

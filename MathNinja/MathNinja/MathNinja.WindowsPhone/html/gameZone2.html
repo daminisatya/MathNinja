@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/default.css" rel="stylesheet" />
+    <script src="../javascript/jquery.js"></script>
+    <style>
+     
+	.prime-btn {
+	  margin: 4px;
+	}
+  </style>
+  
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <a class="btn btn-success" href="champ.html"><font face="myFirstFont" size="5">BACK</font></a>
+            <center><strong><font face="myFirstFont" size="20">Factorizer</font></strong></center>
+        </div>
+    </nav>
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h3 class="panel-title">How to Play?</h3>
+        </div>
+        <div class="panel-body">
+            Keep clicking on the possible factors until you get 1.
+        </div>
+    </div>
+    <center>
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <h1 id="problem" style="text-align: center"></h1>
+                <div id="prime-btns">
+                </div>
+                <br>
+                <button id='next-problem' class="btn btn-default">Next Problem</button>
+                <br>
+                <br>
+                <h2 id="score">0</h2>
+                Difficulty: <input type="number" id="difficulty" value="5" />
+            </div>
+        </div>
+    </center>
+    <script src="../javascript/game2.js"></script>
+    <script src="../javascript/jquery-1.11.0.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Debug\split.scale-140.pri"			"resources.pri"
+"C:\Users\HOME\Desktop\MS-10\MathNinja\MathNinja\MathNinja.WindowsPhone\bld\Debug\PackageLayout\images\SplashScreen.scale-140.png"			"images\SplashScreen.scale-140.png"

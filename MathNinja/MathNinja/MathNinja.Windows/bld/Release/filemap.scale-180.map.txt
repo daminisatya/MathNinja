@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\filemap.scale-180.pri"			"resources.pri"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\Wide310x150Logo.scale-180.png"			"images\Wide310x150Logo.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\storelogo.scale-180.png"			"images\storelogo.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\Square70x70Logo.scale-180.png"			"images\Square70x70Logo.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\Square310x310Logo.scale-180.png"			"images\Square310x310Logo.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\splashscreen.scale-180.png"			"images\splashscreen.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\smalllogo.scale-180.png"			"images\smalllogo.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\logo.scale-180.png"			"images\logo.scale-180.png"
+"C:\Users\Vijay\Desktop\MathNinja\MathNinja\MathNinja.Windows\bld\Release\PackageLayout\images\BadgeLogo.scale-180.png"			"images\BadgeLogo.scale-180.png"
