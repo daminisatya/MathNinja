@@ -28,7 +28,13 @@ function init() {
     start_problem();
     $("#next-problem").click(function () {
         start_problem();
+        start_timer();
     });
+}
+
+function start_timer() {
+    tick();
+    window.setInterval(tick, 1000);
 }
 
 function multiply_out_dictionary(dict) {
@@ -87,7 +93,19 @@ function start_problem() {
     });
 
 }
+function on_timer_end() {
+    var message = "Your time is up!";
+    $("#choices").html(message);
+}
 
+var time_left = 30;
+function tick() {
+    $("#time").html(time_left);
+    time_left -= 1;
+    if (time_left == 0) {
+        on_timer_end();
+    }
+}
 function makeButton(prime, additionalClass, parentEle, id) {
     if (id === undefined) id = "";
     var buttonHTML = "<button " + id + "class='btn " + additionalClass + " prime-btn'>" + prime + "</button>";
