@@ -7,6 +7,10 @@ function choose_how_many_primes() {
     var upper = NUMBER_OF_PRIMES_TO_CHOOSE;
     return lower + (Math.random() * (upper - lower));
 }
+function start_timer() {
+    tick();
+    window.setInterval(tick, 1000);
+}
 
 function choose_which_primes(num_primes) {
     var res = {};
@@ -29,6 +33,7 @@ function init() {
     start_problem();
     $("#next-problem").click(function () {
         start_problem();
+        start_timer();
     });
 }
 
@@ -83,6 +88,19 @@ var score = 0;
 function updateScore(newscore) {
     score = newscore;
     $("#score").html(score);
+}
+function on_timer_end() {
+    var message = "Your time is up!";
+    $("#choices").html(message);
+}
+
+var time_left = 30;
+function tick() {
+    $("#time").html(time_left);
+    time_left -= 1;
+    if (time_left == 0) {
+        on_timer_end();
+    }
 }
 
 function makeButton(prime, additionalClass, parentEle, id) {
